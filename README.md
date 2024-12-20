@@ -5,14 +5,16 @@ A comprehensive analysis of ABC Pharmaceutical Company sales data
 This project delves into the sales performance of ABC Pharmaceuticals using Python, SQLite, and Power BI to extract actionable business insights. The dataset provides a comprehensive view of sales transactions, customer demographics, product details, geographic information, and sales channels. By integrating advanced analytics, database management, and visualization tools, the analysis aims to support data-driven decision-making.
 
 The primary objectives include uncovering sales trends, evaluating product and channel performance, understanding customer purchasing behavior, and identifying the geographic impact on sales. These insights will help refine business strategies, optimize operations, and enhance product offerings.
+# Table of Contents
 
-## Table of Contents
-* Introduction  
-* Problem Statement
-* Methodology and Skills Applied
-* Findings/Insights
-* Recommendations
-* Tools Used
+1. [Introduction](#introduction)
+2. [Problem Statement](#problem-statement)
+3. [Methodology and Skills Applied](#methodology-and-skills-applied)
+4. [Findings/Insights](#findingsinsights)
+5. [Recommendations](#recommendations)
+6. [Tools Used](#tools-used)
+
+
 ## Problem Statement
 Businesses often face challenges in effectively analyzing sales data due to fragmented datasets, limited geographic insights, and inadequate understanding of customer behavior. Key issues include:
 
