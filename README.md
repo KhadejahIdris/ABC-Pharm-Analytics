@@ -1,26 +1,27 @@
-# ABC-Pharm-Analytics
+# ABC-Pharmaceutical-Company-Sales-Analytics
 A comprehensive analysis of ABC Pharmaceutical Company sales data
-ABC Pharmaceuticals Sales Data Analysis Project
-Introduction
+
+## Introduction
 This project delves into the sales performance of ABC Pharmaceuticals using Python, SQLite, and Power BI to extract actionable business insights. The dataset provides a comprehensive view of sales transactions, customer demographics, product details, geographic information, and sales channels. By integrating advanced analytics, database management, and visualization tools, the analysis aims to support data-driven decision-making.
 
 The primary objectives include uncovering sales trends, evaluating product and channel performance, understanding customer purchasing behavior, and identifying the geographic impact on sales. These insights will help refine business strategies, optimize operations, and enhance product offerings.
 
-Table of Contents
-Introduction
-Problem Statement
-Methodology and Skills Applied
-Findings/Insights
-Recommendations
-Tools Used
-Problem Statement
+## Table of Contents
+* Introduction  
+* Problem Statement
+* Methodology and Skills Applied
+* Findings/Insights
+* Recommendations
+* Tools Used
+## Problem Statement
 Businesses often face challenges in effectively analyzing sales data due to fragmented datasets, limited geographic insights, and inadequate understanding of customer behavior. Key issues include:
 
 Identifying seasonal and yearly sales trends.
 Evaluating product performance across regions and sales channels.
 Understanding customer demographics and preferences.
 Utilizing geospatial and visual analytics to drive actionable insights.
-Methodology and Skills Applied
+
+## Methodology and Skills Applied
 This project followed a structured approach:
 
 Database and Data Modeling:
@@ -42,7 +43,8 @@ Performed hypothesis testing (ANOVA, T-tests) to compare performance across regi
 Visualization and Dashboarding:
 
 Built an interactive Power BI dashboard to display key metrics and insights.
-Findings/Insights
+
+## Findings/Insights
 Sales Trends:
 
 Peak sales occurred in July and December, reflecting seasonal demand and restocking trends.
@@ -62,7 +64,7 @@ Jimmy Fret was the top sales representative, indicating exceptional sales strate
 Geographical Insights:
 
 Butzbach recorded the highest city-level sales, while Szczytno had the lowest.
-Recommendations
+## Recommendations
 Optimize Sales Strategies:
 
 Focus promotional campaigns during peak periods (July, December).
@@ -77,7 +79,7 @@ Strengthen distribution networks in low-performing regions like Poland and Szczy
 Channel Optimization:
 
 Continue prioritizing retail and pharmacy channels while exploring opportunities in hospitals and government subchannels.
-Tools Used
+## Tools Used
 SQLite: For database creation, querying, and schema design.
 Python: For data analysis, visualization, and statistical testing.
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, GeoPandas, Plotly.
